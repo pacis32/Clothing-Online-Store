@@ -35,6 +35,8 @@ export default class Navbar extends Component {
       </NavWrapper>  
     );
   }
+
+  
   }
 
   const NavWrapper = styled.nav`
@@ -44,3 +46,5 @@ export default class Navbar extends Component {
     font-size:1rem;
     text-transform:capitalize;
   }
+
+
