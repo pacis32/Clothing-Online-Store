@@ -24,7 +24,7 @@
         "id": 3,
         "sku": 876661122392077,
         "title": "White DGK Script Tee",
-        "description": "White DGK Script",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
         "availableSizes": ["X", "M", "L"],
         "price": 14.9,
         "isFreeShipping": true
@@ -34,7 +34,7 @@
         "id": 4,
         "sku": 9197907543445677,
         "title": "Born On The Streets  T-Shirt",
-        "description": "Born On The Streets",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
         "availableSizes": ["XL"],
         "price": 25.9,
         "isFreeShipping": false
@@ -44,7 +44,7 @@
         "id": 5,
         "sku": 10547961582846888,
         "title": "Tso 3D Short Sleeve T-Shirt A",
-        "description": "Tso 3D Short Sleeve",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
         "availableSizes": ["X", "L", "XL"],
         "price": 10.9,
         "isFreeShipping": false
@@ -54,7 +54,7 @@
         "id": 6,
         "sku": 6090484789343891,
         "title": "Man Tie Dye Cinza Grey T-Shirt",
-        "description": "Man Tie Dye Cinza Grey",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
         "availableSizes": ["XL", "XXL"],
         "price": 49.9,
         "isFreeShipping": false
@@ -64,7 +64,7 @@
         "id": 7,
         "sku": 18532669286405342,
         "title": "Crazy Monkey Black T-Shirt",
-        "description": "1977 Infantil",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
         "availableSizes": ["S"],
         "style": "Preto com listras brancas",
         "price": 22.5,
@@ -75,7 +75,7 @@
         "id": 8,
         "sku": 5619496040738316,
         "title": "Tso 3D Black T-Shirt",
-        "description": "",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
         "availableSizes": ["XL"],
         "style": "Azul escuro",
         "price": 18.7,
@@ -85,7 +85,7 @@
         "id": 9,
         "sku": 11600983276356165,
         "title": "Crazy Monkey Grey",
-        "description": "",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
         "availableSizes": ["L", "XL"],
         "price": 134.9,
         "isFreeShipping": true

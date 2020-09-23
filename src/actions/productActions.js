@@ -3,6 +3,7 @@ import {
     FILTER_PRODUCTS_BY_SIZE,
     ORDER_PRODUCTS_BY_PRICE,
   } from "./types.js";
+
   
   export const fetchProducts = () => (dispatch) => {
     fetch("http://localhost:8000/products")
