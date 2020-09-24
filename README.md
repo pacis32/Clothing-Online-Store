@@ -45,5 +45,8 @@ create a database and host it to heroku
 Here you can access both of them 
 https://dashboard.heroku.com/apps 
 
+I tried to deploy with heroku but the pictures are not show on the page:
+https://shrouded-lowlands-41518.herokuapp.com/
+
 
 
