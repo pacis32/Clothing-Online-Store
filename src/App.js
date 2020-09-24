@@ -14,7 +14,7 @@ import Navbar from "./Components/Navbar";
 import Basket from './Components/Basket'
 import Filter from './Components/Filter'
 import "./App.css";
-// import Login from './SignIn/Login'
+import Login from './SignIn/Login'
 
     
      const App=() =>{
@@ -30,17 +30,17 @@ import "./App.css";
             
               <Route exact path="/">
                 <Products />
-                <Filter/>
+               
                
               </Route>
               <Route  path="/cart">
               <Basket />
 
               </Route>
-              {/* <Route  path="/Login">
+              <Route  path="/Login">
               <Login />
 
-              </Route> */}
+              </Route>
 
             </Switch>
           </div>
