@@ -6,7 +6,7 @@ import {
 
   
   export const fetchProducts = () => (dispatch) => {
-    fetch("http://localhost:8000/products")
+    fetch("https://main-java-app.herokuapp.com/getAllProduct")
       .then((res) => res.json())
       .catch((err) =>
         fetch("db.json")
