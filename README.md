@@ -7,6 +7,9 @@ FRONT END
 - React 
 - Redux
 - BootStrap
+
+
+
 BACKEND
 - IntelliJ IDEA EDU
 - POSTGRES
