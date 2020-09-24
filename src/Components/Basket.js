@@ -15,7 +15,7 @@ class Basket extends Component {
   
   render() {
     const checkoutHandler =()=>{
-     // @TODO
+     
       window.location = "./Login?redirect=shipping"
     }
     const { cartItems } = this.props;

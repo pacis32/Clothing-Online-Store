@@ -6,6 +6,7 @@ import "../App.css"
 import {ButtonContainer} from './Button';
 
 
+
 export default class Navbar extends Component {
   render() {
     return (
@@ -39,6 +40,12 @@ export default class Navbar extends Component {
          Login 
        </ButtonContainer>
      </Link>
+     <Link to='/register' className='ml-auto'>
+       <ButtonContainer>
+        
+        Register
+       </ButtonContainer>
+     </Link>
       </nav>  
     );
   }
@@ -47,7 +54,7 @@ export default class Navbar extends Component {
 }
 
   const nav = styled.nav`
-  background:var(--mainBlue);
+  background:var(--maindarkBlue);
   .nav-link{
     color: nav(--mainWhite);
     font-size:1rem;

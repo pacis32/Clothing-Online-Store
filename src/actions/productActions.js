@@ -3,10 +3,9 @@ import {
     FILTER_PRODUCTS_BY_SIZE,
     ORDER_PRODUCTS_BY_PRICE,
   } from "./types.js";
-
   
   export const fetchProducts = () => (dispatch) => {
-    fetch("https://main-java-app.herokuapp.com/getAllProduct")
+    fetch("http://localhost:8000/products")
       .then((res) => res.json())
       .catch((err) =>
         fetch("db.json")

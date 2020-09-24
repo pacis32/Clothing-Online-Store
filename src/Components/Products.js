@@ -91,12 +91,8 @@ class Products extends Component {
                     {/* product text */}
                     <div className="col-10 max-auto col-md-6 my-3 text-capitalize">
                       <h2>{product.title}</h2>
-                      <h4 className="text-uppercase">Available Size:  {product.availableSizes.map((x)=>(
-                                  <span>
-                                    {" "}
-                                  <button className="btn btn-primary"> {x}</button>
-                                       </span>
-                                         ))}</h4>
+                      <h4 className="text-uppercase">Available Size:  {product.size}
+                         </h4>
                       <h4 className="text-blue">
                         <strong>
                           Price: <span/>{util.formatCurrency(product.price)}

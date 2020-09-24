@@ -15,6 +15,7 @@ import Basket from './Components/Basket'
 import Filter from './Components/Filter'
 import "./App.css";
 import Login from './SignIn/Login'
+import Register from './SignIn/Register';
 
     
      const App=() =>{
@@ -39,6 +40,10 @@ import Login from './SignIn/Login'
               </Route>
               <Route  path="/Login">
               <Login />
+
+              </Route>
+              <Route  path="/Register">
+              <Register />
 
               </Route>
 
