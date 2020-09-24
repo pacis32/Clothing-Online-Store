@@ -17,7 +17,7 @@ Create compontents:
 - BootStrap
 install the bootstrap dependence and aother depenedecies like axios, link, and other necessary dependecies
 
-- Redux
+Redux
 
 -Creating Actions
 -creating reducers
