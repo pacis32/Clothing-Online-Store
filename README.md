@@ -39,11 +39,11 @@ creation Repositor
 create a database and host it to heroku
 
  ### Deployment
- Using Heruku i deployed my database bellow is the linlk:
+ Using Heruku i deployed my database and the intelliJ package bellow is the linlk:
  
  https://main-java-app.herokuapp.com/
-
-
+Here you can access both of them 
+https://dashboard.heroku.com/apps 
 
 
 
