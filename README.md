@@ -48,5 +48,8 @@ https://dashboard.heroku.com/apps
 I tried to deploy with heroku but the pictures are not show on the page:
 https://shrouded-lowlands-41518.herokuapp.com/
 
+And i Deployed it with netlify see down .
+https://agitated-poitras-af4f79.netlify.app
+
 
 
