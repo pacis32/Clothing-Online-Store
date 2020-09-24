@@ -33,7 +33,12 @@ export default class Navbar extends Component {
          my cart  
        </ButtonContainer>
      </Link>
-  
+     <Link to='/Login' className='ml-auto'>
+       <ButtonContainer>
+        
+         Login 
+       </ButtonContainer>
+     </Link>
       </nav>  
     );
   }
