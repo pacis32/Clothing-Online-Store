@@ -15,7 +15,8 @@ class Basket extends Component {
   
   render() {
     const checkoutHandler =()=>{
-      this.history.push("./signin?redirect=shipping");
+     // @TODO
+      window.location = "./Login?redirect=shipping"
     }
     const { cartItems } = this.props;
 
@@ -59,16 +60,7 @@ class Basket extends Component {
                  {util.formatCurrency(item.price)}
                  </div>
                  
-                 <div className="col-10 mx-auto col-lg-2"> 
-                 <p className="text-uppercase">total</p>
-
-                 <b>
-              {" "}
-              {util.formatCurrency(
-                cartItems.reduce((a, c) => a + c.price * c.count, 0)
-              )}
-            </b>
-                </div>
+                
                 <div className="col-10 mx-auto col-lg-2">
                   <p className="text-uppercase">remove from the cart</p>
                   <button
@@ -87,13 +79,24 @@ class Basket extends Component {
               ))}
             
             <div/>
-            
+            <div> 
+                 <p className="text-uppercase">total</p>
+
+                 <b>
+              {" "}
+              {util.formatCurrency(
+                cartItems.reduce((a, c) => a + c.price * c.count, 0)
+              )}
+            </b>
+                </div>
+                <div>
             <button
               onClick={checkoutHandler}
               className="btn btn-primary"
             > 
               Proceed to checkout
             </button>
+            </div>
           </ul>
         
         )}
